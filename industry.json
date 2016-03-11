@@ -1,0 +1,446 @@
+[
+  {
+    "Industry": "Biotechnology"
+  },
+  {
+    "Industry": "Management Consulting"
+  },
+  {
+    "Industry": "Hospital "
+  },
+  {
+    "Industry": "Apparel "
+  },
+  {
+    "Industry": "Consumer Electronics"
+  },
+  {
+    "Industry": "Information Technology and Services"
+  },
+  {
+    "Industry": "Internet"
+  },
+  {
+    "Industry": "Computer Software"
+  },
+  {
+    "Industry": "Pharmaceuticals"
+  },
+  {
+    "Industry": "Human Resources"
+  },
+  {
+    "Industry": "Civil Engineering"
+  },
+  {
+    "Industry": "Sporting Goods"
+  },
+  {
+    "Industry": "Insurance"
+  },
+  {
+    "Industry": "Cosmetics"
+  },
+  {
+    "Industry": "Food "
+  },
+  {
+    "Industry": "Banking"
+  },
+  {
+    "Industry": "Telecommunications"
+  },
+  {
+    "Industry": "Aviation "
+  },
+  {
+    "Industry": "Retail"
+  },
+  {
+    "Industry": "Medical Devices"
+  },
+  {
+    "Industry": "Architecture "
+  },
+  {
+    "Industry": "Oil "
+  },
+  {
+    "Industry": "Broadcast Media"
+  },
+  {
+    "Industry": "Chemicals"
+  },
+  {
+    "Industry": "Financial Services"
+  },
+  {
+    "Industry": "Luxury Goods "
+  },
+  {
+    "Industry": "Mechanical or Industrial Engineering"
+  },
+  {
+    "Industry": "Food Production"
+  },
+  {
+    "Industry": "Logistics and Supply Chain"
+  },
+  {
+    "Industry": "Computer Networking"
+  },
+  {
+    "Industry": "Online Media"
+  },
+  {
+    "Industry": "Real Estate"
+  },
+  {
+    "Industry": "Supermarkets"
+  },
+  {
+    "Industry": "International Trade and Development"
+  },
+  {
+    "Industry": "Utilities"
+  },
+  {
+    "Industry": "Design"
+  },
+  {
+    "Industry": "Wine and Spirits"
+  },
+  {
+    "Industry": "Automotive"
+  },
+  {
+    "Industry": "E-Learning"
+  },
+  {
+    "Industry": "Marketing and Advertising"
+  },
+  {
+    "Industry": "Entertainment"
+  },
+  {
+    "Industry": "Market Research"
+  },
+  {
+    "Industry": "Airlines/Aviation"
+  },
+  {
+    "Industry": "Electrical/Electronic Manufacturing"
+  },
+  {
+    "Industry": "Information Services"
+  },
+  {
+    "Industry": "Publishing"
+  },
+  {
+    "Industry": "Consumer Goods"
+  },
+  {
+    "Industry": "Package/Freight Delivery"
+  },
+  {
+    "Industry": "Higher Education"
+  },
+  {
+    "Industry": "Facilities Services"
+  },
+  {
+    "Industry": "International Affairs"
+  },
+  {
+    "Industry": "Leisure, Travel "
+  },
+  {
+    "Industry": "Security and Investigations"
+  },
+  {
+    "Industry": "Mining "
+  },
+  {
+    "Industry": "Nonprofit Organization Management"
+  },
+  {
+    "Industry": "Hospitality"
+  },
+  {
+    "Industry": "Venture Capital "
+  },
+  {
+    "Industry": "Staffing and Recruiting"
+  },
+  {
+    "Industry": "Photography"
+  },
+  {
+    "Industry": "Sports"
+  },
+  {
+    "Industry": "Transportation/Trucking/Railroad"
+  },
+  {
+    "Industry": "Construction"
+  },
+  {
+    "Industry": "Paper "
+  },
+  {
+    "Industry": "Museums and Institutions"
+  },
+  {
+    "Industry": "Law Practice"
+  },
+  {
+    "Industry": "Accounting"
+  },
+  {
+    "Industry": "Defense "
+  },
+  {
+    "Industry": "Computer Hardware"
+  },
+  {
+    "Industry": "Building Materials"
+  },
+  {
+    "Industry": "Education Management"
+  },
+  {
+    "Industry": "Fine Art"
+  },
+  {
+    "Industry": "Program Development"
+  },
+  {
+    "Industry": "Glass, Ceramics "
+  },
+  {
+    "Industry": "Professional Training "
+  },
+  {
+    "Industry": "Restaurants"
+  },
+  {
+    "Industry": "Maritime"
+  },
+  {
+    "Industry": "Research"
+  },
+  {
+    "Industry": "Performing Arts"
+  },
+  {
+    "Industry": "Media Production"
+  },
+  {
+    "Industry": "Investment Management"
+  },
+  {
+    "Industry": "Government Administration"
+  },
+  {
+    "Industry": "Law Enforcement"
+  },
+  {
+    "Industry": "Military"
+  },
+  {
+    "Industry": "Legislative Office"
+  },
+  {
+    "Industry": "Wireless"
+  },
+  {
+    "Industry": "Renewables "
+  },
+  {
+    "Industry": "Business Supplies and Equipment"
+  },
+  {
+    "Industry": "Graphic Design"
+  },
+  {
+    "Industry": "Wholesale"
+  },
+  {
+    "Industry": "Shipbuilding"
+  },
+  {
+    "Industry": "Semiconductors"
+  },
+  {
+    "Industry": "Capital Markets"
+  },
+  {
+    "Industry": "Industrial Automation"
+  },
+  {
+    "Industry": "Translation and Localization"
+  },
+  {
+    "Industry": "Computer Games"
+  },
+  {
+    "Industry": "Civic "
+  },
+  {
+    "Industry": "Animation"
+  },
+  {
+    "Industry": "Furniture"
+  },
+  {
+    "Industry": "Farming"
+  },
+  {
+    "Industry": "Health, Wellness and Fitness"
+  },
+  {
+    "Industry": "Packaging and Containers"
+  },
+  {
+    "Industry": "Public Relations and Communications"
+  },
+  {
+    "Industry": "Government Relations"
+  },
+  {
+    "Industry": "Environmental Services"
+  },
+  {
+    "Industry": "Executive Office"
+  },
+  {
+    "Industry": "Machinery"
+  },
+  {
+    "Industry": "Investment Banking"
+  },
+  {
+    "Industry": "Political Organization"
+  },
+  {
+    "Industry": "Legal Services"
+  },
+  {
+    "Industry": "Medical Practice"
+  },
+  {
+    "Industry": "Outsourcing/Offshoring"
+  },
+  {
+    "Industry": "Music"
+  },
+  {
+    "Industry": "Religious Institutions"
+  },
+  {
+    "Industry": "Events Services"
+  },
+  {
+    "Industry": "Individual "
+  },
+  {
+    "Industry": "Textiles"
+  },
+  {
+    "Industry": "Public Safety"
+  },
+  {
+    "Industry": "Consumer Services"
+  },
+  {
+    "Industry": "Motion Pictures and Film"
+  },
+  {
+    "Industry": "Computer "
+  },
+  {
+    "Industry": "Libraries"
+  },
+  {
+    "Industry": "Plastics"
+  },
+  {
+    "Industry": "Commercial Real Estate"
+  },
+  {
+    "Industry": "Printing"
+  },
+  {
+    "Industry": "Arts and Crafts"
+  },
+  {
+    "Industry": "Import and Export"
+  },
+  {
+    "Industry": "Newspapers"
+  },
+  {
+    "Industry": "Railroad Manufacture"
+  },
+  {
+    "Industry": "Gambling "
+  },
+  {
+    "Industry": "Primary/Secondary Education"
+  },
+  {
+    "Industry": "Mental Health Care"
+  },
+  {
+    "Industry": "Think Tanks"
+  },
+  {
+    "Industry": "Transportation/Trucking/Railroad"
+  },
+  {
+    "Industry": "Recreational Facilities and Services"
+  },
+  {
+    "Industry": "Judiciary"
+  },
+  {
+    "Industry": "Dairy"
+  },
+  {
+    "Industry": "Writing and Editing"
+  },
+  {
+    "Industry": "Philanthropy"
+  },
+  {
+    "Industry": "Fishery"
+  },
+  {
+    "Industry": "Fund-Raising"
+  },
+  {
+    "Industry": "Veterinary"
+  },
+  {
+    "Industry": "Warehousing"
+  },
+  {
+    "Industry": "Public Policy"
+  },
+  {
+    "Industry": "Ranching"
+  },
+  {
+    "Industry": "Nanotechnology"
+  },
+  {
+    "Industry": "Tobacco"
+  },
+  {
+    "Industry": "Alternative Dispute Resolution"
+  },
+  {
+    "Industry": "Alternative Medicine"
+  }
+]
