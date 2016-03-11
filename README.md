@@ -1,2 +1,3 @@
 # occupation
-around 10k occupations
+10k occupations
+150 industries
